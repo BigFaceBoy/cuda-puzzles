@@ -1,0 +1,6 @@
+add_subdirectory(01_Map)
+add_subdirectory(02_Zip)
+add_subdirectory(03_Guards)
+add_subdirectory(04_Map_2D)
+add_subdirectory(05_Broadcast)
+#add_subdirectory(06_Blocks)

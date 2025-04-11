@@ -1,0 +1,1 @@
+add_executable(map_2d map_2d.cu)
